@@ -10,7 +10,8 @@
 <body>
 <!--Файли можна підключати за допомогою include або require-->
 <?php
-require 'variables/index.php'
+//require 'variables/index.php';
+require 'functions/index.php';
 ?>
 </body>
 </html>
